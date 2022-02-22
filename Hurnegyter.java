@@ -7,3 +7,11 @@
 * Github: https://github.com/csengekulker/
 * Licenc: GNU GPL
 */
+
+import java.util.Scanner;
+
+class Hurnegyter {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+    }
+}
