@@ -24,5 +24,9 @@ class Hurnegyter {
         double c = sc.nextDouble();
         System.out.print("D oldal > ");
         double d = sc.nextDouble();
+
+        double halfPerimeter = (a + b + c + d) / 2;
+
+         // System.out.println(halfPerimeter);
     }
 }
