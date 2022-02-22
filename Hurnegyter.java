@@ -35,6 +35,8 @@ class Hurnegyter {
             (s - d)
         );
 
+        System.out.printf("A hurnegyszog terulete %.2f", area);
+
          // System.out.println(halfPerimeter);
     }
 }
